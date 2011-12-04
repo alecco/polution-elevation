@@ -67,15 +67,43 @@ column_names_a = elems_a[0]  # Columns
 column_names_b = elems_b[0]  # Columns
 column_names_i = elems_i[0]  # Columns
 
-location_idx_a  = column_names_a.index('location')      # location column
-elevation_idx_a = column_names_a.index('elevation')    # elevation column
-name_idx_a      = column_names_a.index(name)           # pos name
 
-for fname, name in ds:
-    def km_dist(lat1, long1, lat2, long2):
-        loc       = row[location_idx]
-        elevation = row[elevation_idx]
-        name      = row[name_idx]
+# For all asentamientos find relations within 5km
+# skip header
+column_names_a    = elems_a[0]   # Columns
+location_idx_a    = column_names_a.index('location')      # location column
+elevation_idx_a   = column_names_a.index('elevation')    # elevation column
+name_idx_a        = column_names_a.index('asentamiento')           # pos name
+
+for i in range(1, len(elems_a[1:])):
+
+    row       = elems_a[i]
+    loc       = row[location_idx]
+    elevation = row[elevation_idx]
+    name      = row[name_idx]
+
+    if len(loc) < 8 or loc.find(' ') == -1:
+        continue # Skip missing data
+
+    lat_a, lon_a = loc.split(' ')
+
+    for i in range(1, len(elems_b[1:])):
+        # Compare with basurales
+
+        loc_b       = row[location_idx]
+        elevation_b = row[elevation_idx]
+        name_b      = row[name_idx]
+
+        if len(loc_b) < 8 or loc_b.find(' ') == -1:
+            continue # Skip missing data (basurales...)
+
+        lat_b, lon_b = loc_b.split(' ')
+
+        distance_km = km_dist(float(lat_a), float(lon_a), float(lat_b),
+                float(lon_b))
+
+        print (distance_km ) # meters
+
     pass
 
 ofile.write('</kml>')
