@@ -1,19 +1,21 @@
 from csv        import reader
 
-kml = (
-   '<?xml version="1.0" encoding="UTF-8"?>\n'
-   '<kml xmlns="http://www.opengis.net/kml/2.2">\n'
-   '<Placemark>\n'
-   '<name>Random Placemark</name>\n'
-   '<Point>\n'
-   '<coordinates>%d,%d</coordinates>\n'
-   '</Point>\n'
-   '</Placemark>\n'
-   '</kml>'
-   )
-print 'Content-Type: application/vnd.google-earth.kml+xml\n'
-
 ds = ('Basurales', 'Industrias', 'Relocalizaciones',) # 'Asentamientos'
+
+# Print header
+print '<?xml version="1.0" encoding="UTF-8"?>\n'
+print '<kml xmlns="http://www.opengis.net/kml/2.2">\n'
+
+placemark = (
+   '<Placemark>\n'
+   '    <name>%s</name>\n'
+   '    <Point>\n'
+   '        <coordinates>%d,%d</coordinates>\n'
+   '    </Point>\n'
+   '</Placemark>\n'
+   )
+
+print 'Content-Type: application/vnd.google-earth.kml+xml\n'
 
 for d in ds:
 
@@ -28,6 +30,9 @@ for d in ds:
 
         # Get location, change to google comma format
         loc = row[location_idx]
-        print '='*78, '\n', kml, '\n'
+        print placemark % (loc)
 
 #ds = ('Relocalizaciones',) # 'Asentamientos'
+
+print '</kml>' # Print end
+
