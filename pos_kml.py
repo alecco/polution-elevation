@@ -56,8 +56,26 @@ for fname, name in ds:
 ds = ('Basurales', 'Industrias', 'Relocalizaciones') # Again...
 places = []
 
-# load to array
+# Process relations
+asentamientos   = './datasets/QPR - Relocalizaciones-loc.csv'
+basurales       = './datasets/QPR - Basurales-loc.csv'
+industrias      = './datasets/QPR - Industrias-loc.csv'
+elems_a = [x for x in reader(open(asentamientos, 'r'))] # Rows
+elems_b = [x for x in reader(open(basurales, 'r'))] # Rows
+elems_i = [x for x in reader(open(industrias, 'r'))] # Rows
+column_names_a = elems_a[0]  # Columns
+column_names_b = elems_b[0]  # Columns
+column_names_i = elems_i[0]  # Columns
+
+location_idx_a  = column_names_a.index('location')      # location column
+elevation_idx_a = column_names_a.index('elevation')    # elevation column
+name_idx_a      = column_names_a.index(name)           # pos name
+
 for fname, name in ds:
+    def km_dist(lat1, long1, lat2, long2):
+        loc       = row[location_idx]
+        elevation = row[elevation_idx]
+        name      = row[name_idx]
     pass
 
 ofile.write('</kml>')
