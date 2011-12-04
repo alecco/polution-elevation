@@ -12,20 +12,22 @@ kml = (
    '</kml>'
    )
 print 'Content-Type: application/vnd.google-earth.kml+xml\n'
-print kml
 
 ds = ('Basurales', 'Industrias', 'Relocalizaciones',) # 'Asentamientos'
 
 for d in ds:
 
-    dataset_in   = './datasets/QPR - %s.csv' % d
+    dataset_in   = './datasets/QPR - %s-loc.csv' % d
     elems = [x for x in reader(open(dataset_in, 'r'))] # Rows
     column_names = elems[0]                            # Columns
     location_idx = column_names.index('location')      # location column
+    elevation_idx = column_names.index('elevation')    # elevation column
+
     # Find all elems skipping first row
     for row in elems[1:]:
 
         # Get location, change to google comma format
         loc = row[location_idx]
+        print '='*78, '\n', kml, '\n'
 
 #ds = ('Relocalizaciones',) # 'Asentamientos'
