@@ -4,8 +4,7 @@ from simplejson import load as jload
 
 api_url = 'http://maps.googleapis.com/maps/api/elevation/json?locations=%s&sensor=false'
 
-ds = ('Basurales', 'Industrias') # 'Asentamientos'
-#ds = ('Relocalizaciones',) # 'Asentamientos'
+ds = ('Basurales', 'Industrias', 'Relocalizaciones',) # 'Asentamientos'
 
 for d in ds:
 
