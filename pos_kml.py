@@ -1,10 +1,8 @@
 from csv        import reader
 
-ds = ('Basurales', 'Industrias', 'Relocalizaciones',) # 'Asentamientos'
-
 # Print header
-print '<?xml version="1.0" encoding="UTF-8"?>\n'
-print '<kml xmlns="http://www.opengis.net/kml/2.2">\n'
+print '<?xml version="1.0" encoding="UTF-8"?>'
+print '<kml xmlns="http://www.opengis.net/kml/2.2">'
 
 placemark = (
    '<Placemark>\n'
@@ -17,9 +15,13 @@ placemark = (
 
 print 'Content-Type: application/vnd.google-earth.kml+xml\n'
 
-for d in ds:
+#
+ds = (('Basurales', 'denaminacion'), ('Industrias', 'razon_social'),
+        ('Relocalizaciones', 'asentamiento')) # 'Asentamientos'
 
-    dataset_in   = './datasets/QPR - %s-loc.csv' % d
+for fname, name in ds:
+
+    dataset_in   = './datasets/QPR - %s-loc.csv' % fname
     elems = [x for x in reader(open(dataset_in, 'r'))] # Rows
     column_names = elems[0]                            # Columns
     location_idx = column_names.index('location')      # location column
@@ -30,6 +32,10 @@ for d in ds:
 
         # Get location, change to google comma format
         loc = row[location_idx]
+        elevation = row[elevation_idx]
+        if len(loc) < 8 or loc.find(' ') == -1:
+            continue # Skip
+
         print placemark % (loc)
 
 #ds = ('Relocalizaciones',) # 'Asentamientos'
