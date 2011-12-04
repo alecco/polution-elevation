@@ -1,4 +1,5 @@
-from csv        import reader
+from csv   import reader
+from dist  import km_dist
 
 ofile = open('datasets/places.kml', 'w')
 
@@ -47,6 +48,17 @@ for fname, name in ds:
         ofile.write(placemark % (name, fname, loc))
 
 #ds = ('Relocalizaciones',) # 'Asentamientos'
+
+#
+# Now process risky relations
+#
+
+ds = ('Basurales', 'Industrias', 'Relocalizaciones') # Again...
+places = []
+
+# load to array
+for fname, name in ds:
+    pass
 
 ofile.write('</kml>')
 
