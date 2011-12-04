@@ -1,8 +1,10 @@
 from csv        import reader
 
+ofile = open('datasets/places.kml', 'w')
+
 # Print header
-print '<?xml version="1.0" encoding="UTF-8"?>'
-print '<kml xmlns="http://www.opengis.net/kml/2.2">'
+ofile.write('<?xml version="1.0" encoding="UTF-8"?>')
+ofile.write('<kml xmlns="http://www.opengis.net/kml/2.2">')
 
 placemark = (
    '<Placemark>\n'
@@ -14,7 +16,7 @@ placemark = (
    '</Placemark>\n'
    )
 
-print 'Content-Type: application/vnd.google-earth.kml+xml\n'
+ofile.write('Content-Type: application/vnd.google-earth.kml+xml\n')
 
 #
 ds = (('Basurales', 'denominacion'), ('Industrias', 'razon_social'),
@@ -42,9 +44,9 @@ for fname, name in ds:
 
         loc = ','.join(loc.split(' '))
 
-        print placemark % (name, fname, loc)
+        ofile.write(placemark % (name, fname, loc))
 
 #ds = ('Relocalizaciones',) # 'Asentamientos'
 
-print '</kml>' # Print end
+ofile.write('</kml>')
 
