@@ -1,3 +1,5 @@
+from csv        import reader
+
 kml = (
    '<?xml version="1.0" encoding="UTF-8"?>\n'
    '<kml xmlns="http://www.opengis.net/kml/2.2">\n'
@@ -8,7 +10,7 @@ kml = (
    '</Point>\n'
    '</Placemark>\n'
    '</kml>'
-   ) %(longitude, latitude)
+   )
 print 'Content-Type: application/vnd.google-earth.kml+xml\n'
 print kml
 
@@ -20,5 +22,10 @@ for d in ds:
     elems = [x for x in reader(open(dataset_in, 'r'))] # Rows
     column_names = elems[0]                            # Columns
     location_idx = column_names.index('location')      # location column
+    # Find all elems skipping first row
+    for row in elems[1:]:
+
+        # Get location, change to google comma format
+        loc = row[location_idx]
+
 #ds = ('Relocalizaciones',) # 'Asentamientos'
-# villa 21-24,cba-02,,-34.659268 -58.401239,CABA,840,Iguazú Nº 1835 en el ex predio de Mundo Grúa,-34.659012 -58.402306,,15-01-13,,,,6.54063367844,610.812927246
