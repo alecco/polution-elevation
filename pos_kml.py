@@ -75,24 +75,38 @@ location_idx_a    = column_names_a.index('location')      # location column
 elevation_idx_a   = column_names_a.index('elevation')    # elevation column
 name_idx_a        = column_names_a.index('asentamiento')           # pos name
 
+location_idx_b    = column_names_b.index('location')     # location column
+elevation_idx_b   = column_names_b.index('elevation')    # elevation column
+name_idx_b        = column_names_b.index('denominacion') # pos name
+
+location_idx_i    = column_names_i.index('location')     # location column
+elevation_idx_i   = column_names_i.index('elevation')    # elevation column
+name_idx_i        = column_names_i.index('razon_social') # pos name
+
+riesgo_basura     = [] # risk relations indexed
+riesgo_industrias = [] # risk relations indexed
+
 for i in range(1, len(elems_a[1:])):
 
-    row       = elems_a[i]
-    loc       = row[location_idx]
-    elevation = row[elevation_idx]
-    name      = row[name_idx]
+    row_a       = elems_a[i]
+    loc_a       = row_a[location_idx_a]
+    elevation_a = row_a[elevation_idx_a]
+    name_a      = row_a[name_idx_a]
 
-    if len(loc) < 8 or loc.find(' ') == -1:
+    if len(loc_a) < 8 or loc_a.find(' ') == -1:
         continue # Skip missing data
 
-    lat_a, lon_a = loc.split(' ')
+    lat_a, lon_a = loc_a.split(' ')
 
-    for i in range(1, len(elems_b[1:])):
+    print 'Asentamiento: ', name_a
+
+    for j in range(1, len(elems_b[1:])):
         # Compare with basurales
 
-        loc_b       = row[location_idx]
-        elevation_b = row[elevation_idx]
-        name_b      = row[name_idx]
+        row_b       = elems_b[j]
+        loc_b       = row_b[location_idx_b]
+        elevation_b = row_b[elevation_idx_b]
+        name_b      = row_b[name_idx_b]
 
         if len(loc_b) < 8 or loc_b.find(' ') == -1:
             continue # Skip missing data (basurales...)
@@ -102,9 +116,36 @@ for i in range(1, len(elems_a[1:])):
         distance_km = km_dist(float(lat_a), float(lon_a), float(lat_b),
                 float(lon_b))
 
-        print (distance_km ) # meters
+        distance_m = int(distance_km * 1000) # meters
 
-    pass
+        if distance_m < 2000:
+            elevation_dif = int(float(elevation_b) - float(elevation_a))
+            if elevation_dif + 1 > 0:
+                riesgo_basura.append((i, j, distance_m, elevation_dif))
+                print '    basura riesgo: ', riesgo_basura[-1]
+
+    for j in range(1, len(elems_i[1:])):
+        # Compare with basurales
+
+        row_i       = elems_i[j]
+        loc_i       = row_i[location_idx_i]
+        elevation_i = row_i[elevation_idx_i]
+        name_i      = row_i[name_idx_i]
+
+        if len(loc_i) < 8 or loc_i.find(' ') == -1:
+            continue # Skip missing data (basurales...)
+
+        lat_i, lon_i = loc_i.split(' ')
+
+        distance_km = km_dist(float(lat_a), float(lon_a), float(lat_i),
+                float(lon_i))
+
+        distance_m = int(distance_km * 1000) # meters
+
+        if distance_m < 2000:
+            elevation_dif = int(float(elevation_i) - float(elevation_a))
+            if elevation_dif + 1 > 0:
+                riesgo_industrias.append((i, j, distance_m, elevation_dif))
+                print '    industria riesgo: ', riesgo_industrias[-1]
 
 ofile.write('</kml>')
-
