@@ -1,0 +1,6310 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">Content-Type: application/vnd.google-earth.kml+xml
+<Placemark>
+    <name>Molinos</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.654444444444444,-58.36833333333333</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Santa Catalina A</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.775,-58.465555555555554</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Santa Catalina B</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.763888888888886,-58.47361111111111</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Ruta Pcial. 21 B</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.73833333333333,-58.56333333333333</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Don Juan B</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.76833333333333,-58.57055555555556</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>San Cayetano A</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.77611111111111,-58.58777777777778</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>San Cayetano B</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.7775,-58.589166666666664</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Calderón de la Barca IV A (foco 5)</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.73777777777778,-58.64083333333333</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Calderón de la barca IV B (Foco7-8)</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.73416666666667,-58.64555555555555</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Rooselvet A</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.70055555555555,-58.48222222222222</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Rooselvet B</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.702777777777776,-58.48583333333333</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Monte Chingolo</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.731944444444444,-58.34972222222222</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Camino de La Ribera Sur</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.69016944444444,-58.44744444444444</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>El Santuario</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.71446666666667,-58.447227777777776</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Barrio Arzeno</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.827267,-58.418428</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Barrio San Jose A</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.77356944444445,-58.33821944444445</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Aº del Rey I</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.82700555555556,-58.41988888888889</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Arroyo Ortega II</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.85473888888889,-58.469</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Camino Real</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.80193888888889,-58.563091666666665</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Ministro Rivadavia I</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.823702777777775,-58.33832777777778</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Don Orione</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.81986666666667,-58.35766944444445</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Cementerio</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.79915277777778,-58.346975</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Acceso Sudeste  1</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.657605555555556,-58.35012777777778</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Acceso Sudeste  2</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.660180555555556,-58.34836388888889</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Baliza Chiriguano</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.854483333333334,-58.463725</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Amat</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.816852777777775,-58.45554722222222</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Barrio Parque La Celia</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.811994444444444,-58.60342222222222</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Cristiania</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.72858055555555,-58.560097222222225</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Rotonda Querandí</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.7217,-58.53681944444445</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>El Vesubio</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.71722777777778,-58.519105555555555</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Virrey del Pino</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.848058333333334,-58.629841666666664</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Barrio Roggio I</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.71111111111111,-58.55638888888889</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Bº Costa Azul</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.80105277777778,-58.604058333333334</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Venezuela</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.68951111111111,-58.59858333333333</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Boulevard de los Italianos</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.71565,-58.34865555555555</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Magan</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.69916944444444,-58.36785277777778</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Lynch</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.740008333333336,-58.3544</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Basural Pampa y la Via</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.667633333333335,-58.418686111111114</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Donato Alvarez</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.712313888888886,-58.577222222222225</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Los Castaños</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.76356666666667,-58.43123333333333</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Juan XXIII</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.774227777777774,-58.44990555555555</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Las Golondrinas</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.76853888888889,-58.365677777777776</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Bº Obrera</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.715155555555555,-58.3598</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Pitagoras</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.72902222222222,-58.35059444444445</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Roma</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.734427777777775,-58.37864166666667</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Centenario</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.729663888888886,-58.371002777777775</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Ugarte A</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.663155555555555,-58.630919444444444</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Guatemala</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.672247222222225,-58.396744444444444</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>San Jose I</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.769127777777776,-58.365652777777775</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Frued</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.75942222222222,-58.36599722222222</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Puente Claypole</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.80115833333333,-58.32863888888889</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Amat II</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.82530555555556,-58.44708333333333</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Hospital Oñativia</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.79,-58.355</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Arroyo del Rey - Naciente</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.86833333333333,-58.40777777777778</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Hogar Israelita Argentino</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.83,-58.36388888888889</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Arroyo del Rey - Puente</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.82271111111111,-58.409325</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Sarandí I</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.67777777777778,-58.3375</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Chiriguano</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.86065,-58.459361111111114</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>9 DE ABRIL</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.739580555555555,-58.49135277777778</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Camino Negro D</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.737230555555556,-58.434758333333335</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Camino Negro C</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.7252,-58.44391666666667</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Bº Gral. Paz</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.75143888888889,-58.436175</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Santa Monica</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.717241666666666,-58.708983333333336</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BARRIO MARINA</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.70361666666667,-58.665863888888886</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Puente 12</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.725775,-58.50994166666667</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Arroyo Ortega I</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.813630555555555,-58.49911111111111</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Cañuelas</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-35.03506388888889,-58.71305</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Las Heras</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.9427,-58.92399722222222</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Marcos Paz</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.837825,-58.83572777777778</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>San Vicente</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-35.050291666666666,-58.44564444444445</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Fabricaciones Militares</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.67805555555555,-58.4375</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Galasso</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.70342222222222,-58.450694444444444</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Merlo D</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.70879444444444,-58.68405833333333</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>La Cascotera</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.665,-58.33861111111111</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Chiriguano</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.86065,-58.459361111111114</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Arroyo Ortega</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.846694444444445,-58.47468333333333</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Tristan Suarez I</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.91740277777778,-58.56213888888889</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>La Tosquera</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.80067777777778,-58.61342222222222</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Mercado Central</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.707883333333335,-58.4688</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Ruta 4 y Río Matanza</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.73861111111111,-58.496944444444445</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Rafael Castillo</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.716944444444444,-58.634166666666665</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Ruta Pcial. 21 A</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.738055555555555,-58.564166666666665</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Don Juan A</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.768055555555556,-58.57611111111111</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Calderón de La Barca I A (Foco 1)</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.73222222222222,-58.65083333333333</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Calderón de la Barca I B (foco 2)</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.73111111111111,-58.651666666666664</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Calderón de La Barca II A (Foco 3)</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.7375,-58.636944444444445</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Calderón de la Barca II B (foco 4)</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.74111111111111,-58.6375</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Calderon de la Bara II C (foco 6)</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.74805555555555,-58.64472222222222</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Calderón de la Barca III (Foco 9)</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.73222222222222,-58.64388888888889</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Isidro Casanova</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.72694444444444,-58.579166666666666</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Puente Bosch</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.657583333333335,-58.37617777777778</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Bacara</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.66353888888889,-58.420294444444444</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Barrio San Pedro</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.82682222222222,-58.418908333333334</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Barrio San José C</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.768347222222225,-58.341547222222225</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Barrio San Jose B</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-35.773383333333335,-58.33895833333333</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Camino de Las Latas</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.86103888888889,-58.40631666666667</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Espora I</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.862877777777776,-58.36334166666666</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Espora II</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.870777777777775,-58.35658611111111</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Club Aleman</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.83701666666666,-58.435941666666665</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Bueras</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.70805555555555,-58.36194444444445</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Velódromo de Lanús</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.714725,-58.391105555555555</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Otamendi</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.6675,-58.420833333333334</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Don Bartolome</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.731144444444446,-58.48704722222222</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Cava Santa Catalina</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.77753055555556,-58.450519444444446</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Merlo E</name>
+    <description>Basurales</description>
+    <Point>
+        <coordinates>-34.713994444444445,-58.72213888888889</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SOGEFI FILTRATION ARGENTINA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.73263710914915,-58.380961418151855</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ZOLODA SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.83666700935089,-58.401947021484375</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LABORATORIOS TEMIS LOSTALÓ</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.658698571700924,-58.39134693145752</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FELTEX S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68866301850512,-58.55180740356445</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORÍFICO REGIONAL GENERAL LAS HERAS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.92865642338381,-58.977731466293335</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>JORGE LUIS TOLOSA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.935455607139,-58.974705934524536</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>HIJOS DE PEDRO VINCENTI SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-35.059650244530964,-58.78387212753296</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MARCOS MARTINI S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.80827139351802,-58.84843826293945</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BRONCEL S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65565387384916,-58.4137487411499</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CHEMOTECNICA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.90455128531188,-58.60111713409424</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PANIFICADOS Y FRESCO S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65395055930618,-58.53597164154053</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ESTABLECIMIENTO LOS CALVOS S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64842557798415,-58.4992790222168</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BERNINI EDUERDO E IGLESIAS JORGE</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.80214003798064,-58.41726779937744</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GOLOALFA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.765976910410934,-58.42263221740723</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO BIC S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.682805098225266,-58.504343032836914</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>OILLATAGUERRE GUILLERMO ANTONIO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.82550017451797,-58.865604400634766</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PRODUCTOS TRIO S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69065232335044,-58.55782628059387</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COOPERATIVA DE TRABAJO OBRERA DE MAXIMO PAZ LIMITADA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.93316875182526,-58.62550377845764</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CERVECERIA Y MALTERIA QUILMES S.A.I.C.A. Y G</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.658133766636645,-58.40426445007324</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TRANSPORTE BARRACAS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.659978193934805,-58.386218547821045</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>EDUARDO STERTZ E HIJOS S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.75575249005089,-58.81723880767822</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ROBERTO PONCE S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-35.12833275942812,-58.67199182510376</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MADRIGALE GLADYS NOEMI</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.696037762399314,-58.402719497680664</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TANTO S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.76259241491198,-58.82247447967529</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CABALEIRO MANUEL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6871809332656,-58.41997146606445</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO LA POMPEYA S.A.C.I.F.YA.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.83219341191838,-58.836936950683594</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGO CAÑUELAS SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-35.060616273835514,-58.79000902175903</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FABRICA DE CHACINADOS (EMBUTIDOS) EL SALTEÑO SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.654744855417576,-58.5001802444458</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>RECICLAR SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69342668419858,-58.35615634918213</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LA TERESA S.A.C.I</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.694996869477194,-58.41383457183838</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ESCENCIA  URBANA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65377404802554,-58.48822832107544</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CONUAR SA (COMBUSTIBLES NUCLEARES ARGENTINOS)</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.832061313811344,-58.57085108757019</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SIDERAR SAIC</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.87695365275325,-58.510823249816894</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LIBERMET S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70786420907964,-58.70774245275243</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MAPAR S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.667395201173356,-58.418673276901245</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SAF ARGENTINA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.88734785444915,-58.677318692207336</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PELADERO EL OMBÚ S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.7769050628649,-58.461384773254394</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BIOTENK S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66937178111499,-58.48668873310089</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BIOTENK S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.669016617882406,-58.486970365047455</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PULPABRIL S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.685487089072794,-58.520543575286865</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LABORATORIOS LERSAN S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66562594564779,-58.510833978652954</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SILKEY SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.63589150781387,-58.46031188964844</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>JOMSALVA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66759374369988,-58.74192237854004</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MUNIESA , JOSE MARIA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.7506398050501,-58.46649169921875</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>EMPRESA 501 S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.87082300987949,-58.38914752006531</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO RUFFA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6929326871642,-58.38735580444336</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GRABYA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-35.06126614166377,-58.792476654052734</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>INPACO S.A.C.I. E I.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.686616322385355,-58.515801429748535</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COOPERATIVA DE TRABAJO DECOSUR LIMITADA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.654180023409104,-58.33761692047119</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ADRIANA EVA RIAL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.671193898971005,-58.40109944343567</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ANODIZADOS RODO SACI</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66134604412798,-58.507089614868164</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CURTIEMBRE WILDE S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70168305526638,-58.330020904541016</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MAPEFE S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67008210301204,-58.75217914581299</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LAPORTA GERARDO ENRIQUE</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.648549143892275,-58.53966236114502</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FURA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.664628792469735,-58.501338958740234</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GALVANOPLASTIA CAROLO SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.76467248587221,-58.41982126235962</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>L.F.L.L. S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65461247326094,-58.4925976395607</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FANTASÍA CUEROS S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69833120907548,-58.35607051849365</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BRIZUELA GABRIEL ALEJANDRO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.657974914518775,-58.72561454772949</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CLOROX ARGENTINA SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.71000915922493,-58.510565757751465</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>INDUSTRIAS MARTIRI S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64210581883878,-58.61279010772705</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SCRAPSERVICE SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.74437853854904,-58.49390923976898</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MULI S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64489504566548,-58.41559410095215</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SAUBERNATH S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68919232823157,-58.564724922180176</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CARTBOX SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67528800305057,-58.50389242172241</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>VUELTA DE ROCHA SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64080385331339,-58.36435317993164</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>EXOLGAN S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.642317662143206,-58.34916114807129</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>EMONA S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.80520577276322,-58.3808970451355</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SYNTEX S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.80337119086508,-58.460639119148254</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CABAÑA SAN JULIAN S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67378141392906,-58.54581668972969</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LABORATORIO PABLO CASSARA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65073799516588,-58.523059487342834</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GUIALE S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.8435002243397,-58.40653896331787</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>NUESTRO SOSIEGO S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.60027382240787,-58.46642732620239</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TEXTIL IBEROAMERICANA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66554652680797,-58.56184959411621</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ATILIO ETCHELAR S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.823703476080524,-58.64274501800537</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LUCIO MONTANO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.680123020500666,-58.4961462020874</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO SANSU S.A.C.I.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66837026101169,-58.503313064575195</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO SEOC S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.673488033943016,-58.5126256942749</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BOLDT SOCIEDAD ANONIMA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6355384079803,-58.3706134557724</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>E.A.C.E. Y E. BURBUJAS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.73917918891999,-58.56858730316162</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FARICCI S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.681393489199564,-58.5371732711792</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PEREZ CARLOS ALBERTO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68679276369908,-58.42979907989502</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ORCIANI FERNANDO JOSE</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.81766134972088,-58.431944847106934</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MILITA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.769890060343975,-58.840928077697754</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MENDEZ JAVEGA SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64083474764736,-58.415422439575195</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>VICTORIA CREAM S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65395055930618,-58.375403881073</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TECNO AGRO VIAL SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.76437281786379,-58.47801446914673</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>AQUALINA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65559209621324,-58.42010021209717</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PROVEDURIA PASCUALITO SH</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65723360060945,-58.43136548995972</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LA ASTURIANA S.A.I.C.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67043505572678,-58.53518843650818</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BANCU SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.613872858522235,-58.401432037353516</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BOIOLA CLARA LUCIA Y AGUSTIN VICENTE ECHEVERRIA.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.660075267918636,-58.62656593322754</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>REFRES NOW S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.863080934801744,-58.6674427986145</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>WHITE SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64757826393864,-58.486876487731934</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ALVAREZ HNOS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69650527784099,-58.37056517601013</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ALESTEL S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69060159887629,-58.526514172554016</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CAFERMAR SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67895840706971,-58.40580940246582</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DINO QUARCHIONI Y CIA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69434409943996,-58.572750091552734</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GRAMTOR S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65516847689798,-58.37482452392578</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PRODUCTOS PORCINOS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67336450521695,-58.53039264678955</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TRANSPORTES OLIVOS SACIF - ASHIRA SA UTE</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.63977550677211,-58.38735580444336</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BOCCIO PATRICIO HORACIO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.692209329044296,-58.52962017059326</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CORPORACION LABORATORIOS AMBIENTALES DE LATINOAMERICA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67765260889723,-58.353753089904785</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MUNDIAL SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64094067099078,-58.387441635131836</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DELISTOVICH ADRIANA MABEL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69110663681986,-58.39299917221069</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SODA LA GENEROSA  S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68566353279319,-58.47550392150879</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SAN JUAN Y SOLIS ALVAREZ Y DILEVA   S. A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.62268455091821,-58.39053153991699</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PETROLMAS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.666323063308155,-58.599443435668945</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CURTIEMBRE FRANCISCO LIOTTI S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66898794003942,-58.402719497680664</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DON SATUR S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.678746657413455,-58.55036973953247</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PANIFICACION G & M S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.685178311657246,-58.55255842208862</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PLUMA CONFORTO E TURISMO S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.63039622132681,-58.39009165763855</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PRODUCTOS LE.Q S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.676417375459316,-58.35484743118286</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PAMPACO SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66081655640904,-58.34396839141846</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COMPAÑIA ARGENTINA DE LEVADURAS SAIC</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.71468340535207,-58.36016893386841</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>IMPRESIONES LITIGRAF SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.62381464016989,-58.42324376106262</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ACHCAR TEXTIL S.A.C.I.F E I.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.57919974891321,-58.49902153015137</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>INDUSTRIAS ALIMENTICIAS SONG S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.75176814895904,-58.539276123046875</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COLOMBO Y CIA. S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67576445891359,-58.39775741100311</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>JORGE OMAR SENRA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68924525901807,-58.49713325500488</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DURATOMIC S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68361676251783,-58.50352764129639</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COOPERATIVA DE TRABAJO CITRUS ARGENTINOS LTDA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70110090225012,-58.408212661743164</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SUINO SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65778076151677,-58.48979473114014</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BISINTEX S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65050852153453,-58.38117599487305</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LA VELOZ DEL NORTE S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.62858203477938,-58.357787132263184</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>RICARDO ANGEL COSTANTINO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66349925932949,-58.4902024269104</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TAMBORES GRECO  S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68259335840558,-58.42452049255371</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>HEBOS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66808789192226,-58.41997146606445</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PATRICIOS S.A.I.C.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.71187888937572,-58.361005783081055</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ATILIO BIANCO E HIJOS S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68284038814257,-58.41784715652466</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ELENCWAJG MARIO SERGIO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.674652724302845,-58.35860252380371</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CHAMORRO HNOS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64913166640703,-58.40988636016846</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO CAÑUELAS SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-35.06175793009525,-58.740291595458984</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>RITOSSA Y CIA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68291096793205,-58.50747585296631</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COLOR EFE S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66761139190143,-58.35941791534424</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LOS HUARPES S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.836684621458815,-58.41306209564209</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CASCO ARGENTINA S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68598113054228,-58.55082035064697</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SUPREMO SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-35.03540795009523,-58.773250579833984</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DIOX S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68820428067117,-58.35911750793457</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>METALURGICA FHD S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70115382542084,-58.40664625167847</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SIMKEVICIUS, CLAUDIO JUAN</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70249453445497,-58.39400768280029</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PERRUPATO, ROBERTO DANIEL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6566003897277,-58.40937674045563</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGOLOMAS S.A.G.I.YC.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.76424942483825,-58.41872692108154</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CAMFA SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66522885068742,-58.73497009277344</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PRO TUBO S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68469308767752,-58.442620038986206</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GRAU-HEREDIA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.681287617552506,-58.42263221740723</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PANTIN S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6848165995058,-58.4223747253418</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TINTORERIA GHIRLANDA SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.59153040887188,-58.442373275756836</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PATRICIA ELISABET BACCARI</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.764681299620705,-58.47870111465454</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>XARDO SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6561745692365,-58.50114583969116</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MELICASLAT S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68467323754507,-58.580327332019806</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PFIZER S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66268739787386,-58.427138328552246</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>RECIENTO S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.659792870559016,-58.52236747741699</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DORWIN S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.7009465428088,-58.60044926404953</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>NOREN PLAST S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.81394425299028,-58.63736718893051</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FERCOL LUBRICANTES SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.687992554659644,-58.34495544433594</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>RUBEN ALFREDO SILVA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.587538160533136,-58.49314212799072</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LABORATORIO LKM S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65147054135382,-58.40850234031677</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BELTRAMI CLAUDIO FABIAN</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68703978090654,-58.518226146698</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TRILAU S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65943987250619,-58.49627494812012</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ROYAL CANIN ARGENTINA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.87579181441272,-58.67441654205322</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>INSUGRA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65943987250619,-58.498077392578125</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FLEXAL S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67943484181661,-58.50520133972168</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ALVAREZ NICOLAS</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68725150935487,-58.54970455169678</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>EMPRESA SAN VICENTE S.A. DE TRANSPORTE</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.83494100449621,-58.385682106018066</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CATTER MEAT S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.77578587505891,-58.47216725349426</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>INDUSTRIA QUIMICA ALIMENTARIA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.783496506644596,-58.456106185913086</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO HV S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66319922450081,-58.52436304092407</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CURTIEMBRE PELICCE S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6929326871642,-58.35744380950928</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MARTIN Y MARTIN SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.672111560584554,-58.562965393066406</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LAVADERO TIEMPO LIBRE DE MARTÍN LETOCHA HERNANDO MARTÍN</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.706904608268594,-58.38752746582031</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LIMONAR S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68268158339625,-58.574981689453125</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>J. F. LA FONTAINE Y CIA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64694277272161,-58.54211926460266</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SOUBEIRAN CHOBET S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.566602214523755,-58.490304350852966</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>STEEMBOX S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68389907866753,-58.55039119720459</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>QUÍMICA TRUE S.A.C.I.F.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.8455078137077,-58.485374450683594</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ENERGY GRPUP S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.654109419137406,-58.57330799102783</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRANVITEX S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67320568229843,-58.538053035736084</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CURTIEMBRE INFANTE S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68502833363989,-58.34332466125488</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TORNEMEC S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6726762703706,-58.39239835739136</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CURTIEMBRE INFANTE S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68559295535015,-58.34658622741699</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ORGANIZACION SUR AUTOMOTORES S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.71787585181229,-58.39411497116089</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LIWIN SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-35.06221458812899,-58.789708614349365</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MANUFACTURA TEXPORT SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.656545231756326,-58.49773406982422</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PRODUCTOS SOLITAS SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.83155933907181,-58.421430587768555</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>NIALTEC SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68389907866753,-58.55133533477783</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TRES CORONAS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69935441862597,-58.35688591003418</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DERBEN SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.72557425573967,-58.36658477783203</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MURESCO S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.642811961082224,-58.4007453918457</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PLAQUIMET S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.83650850020996,-58.41522932052612</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>REDUMAX SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64341217726124,-58.55335235595703</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ARNALDO L. VALLEJO Y DANTE E. VALLEJO S.H.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.679326761952375,-58.531225472688675</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>INDPACK SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66378164405813,-58.59901428222656</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LAIKEN S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.84050635975815,-58.409156799316406</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PRINCZ SAICFEI</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.676558545927556,-58.5811185836792</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DONATO DE NICOLA E HIJOS SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66821142851731,-58.403470516204834</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TAMBORES  DEL SUR  SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.74080140349055,-58.566977977752685</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LOS POSSENSES S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66604951150778,-58.52803900837898</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DEVESA CASAÑAS Y CIA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64860210065366,-58.57385516166687</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MEDICIONES EVEL S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66208732125059,-58.519127368927</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>INDUSTRIAS PLASTICOS SALTA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64500096382247,-58.40083122253418</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COCA COLA FEMSA DE BS AS SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66909382741032,-58.51966381072998</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PINTURAS PASCO S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.673355681729454,-58.390445709228516</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>EDRA S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66634071178039,-58.53172302246094</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>G. MARCHESINI E HIJOS  S.A.I.C.I.F. Y A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64990835672631,-58.412418365478516</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LATIN CHEMICAL SUPPLIERS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.84084097355783,-58.41147422790527</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>RUNFO S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.81375046609706,-58.632681369781494</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>OFFAL EXP S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.84931153294586,-58.410465717315674</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LIBSON S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.74334045800561,-58.40677499771118</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DULCYPAS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65395938486036,-58.54287028312683</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO NAZCA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65700414496034,-58.500308990478516</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ADITIVOS ALIMENTARIOS S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.644789127373215,-58.45121383666992</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TEXBRAT S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68568999931882,-58.51486802101135</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LABORATORIO PABLO CASSARA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65117928882541,-58.52337062358856</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MARÍA LETTIERI S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66953502333222,-58.401217460632324</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>REY Y CIA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65492136463086,-58.529534339904785</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TRATAMIENTO DE EFLUENTES AVELLANEDA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66554652680797,-58.32341194152832</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRANCISCO GUERRIERO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68118174577009,-58.423447608947754</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TEXTIL MORON SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64101128647789,-58.62523555755615</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CRONI S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.63762167526986,-58.62710237503052</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BIOCOSMETICA EXEL ARGENTINA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.672120384204575,-58.56104493141174</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ACEROS TEMP</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.75510019958086,-58.3678936958313</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PRODUCTOS LA NIRVA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66208732125059,-58.524169921875</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO EL ALJIBE S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66392283606156,-58.50128531455994</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TALLERES METALURGICOS AMALIA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.657710160312355,-58.53262424468994</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LABORATORIO DOMINGUEZ S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64442723885374,-58.421403765678406</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BRITO RUBEN</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68638694811532,-58.51689577102661</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CAFES LA VIRGINIA S.A. (PLANTA GIACOMO)</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67750482300977,-58.355139791965485</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FANGALA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68460486483023,-58.55086326599121</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ROEMMERS SAICF - PREDIO LUIS GUILLON</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.78363749434134,-58.474860191345215</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>IMPERIAL MOTOR SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70806882853154,-58.55313777923584</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SKINS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69210347122818,-58.54915738105774</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>JGC S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67539388236812,-58.35804462432861</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>INOBRECA S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.83334705971247,-58.41547608375549</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TEXTIL LA ARTESANA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.75518834724278,-58.42662334442139</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BARK SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65605101469483,-58.50236892700195</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LABORATORIO QUIMICO COSMETICO RETTES S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.660322364818896,-58.34787368774414</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CENTRO SUDAMERICANO DE LOGISTICA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.74838307098527,-58.50095272064209</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO MORRONE S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.76747521045692,-58.37291479110718</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BALLENA AZUL S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.674617430896205,-58.542258739471436</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COOPERATIVA DE TRABAJO GOLDEN QUAIL LTDA.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.698415006885014,-58.36199551820755</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GOOD FOOD S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.639422423473846,-58.6091423034668</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CAR OKEY S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.699442625753484,-58.5412073135376</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SABO ARGENTINA SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67002915997512,-58.54045629501343</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>HORCRISA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.7413303796162,-58.56768608093262</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TINTORERIA INDUSTRIAL MODELO S.A.I.C.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66081655640904,-58.74069929122925</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ESTABLECIMIENTO LOS CALVOS SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.675632110337695,-58.539007902145386</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>EMEZETA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.680705321073994,-58.37317228317261</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>RANGALL S.A.I.C.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.696037762399314,-58.35087776184082</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TOP WEST S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68412845983035,-58.56382369995117</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>OSCAR NORBERTO ALVAREZ Y RADAMES CLAUDIO ALVAREZ SH</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64616605461921,-58.62283229827881</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>EL MISTOL S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68776318420273,-58.52264642715454</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SAMPIETRO HNOS. S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68783375979562,-58.55809450149536</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>EMPRENDIMIENTOS Y SERVICIOS COOPERATIVA DE TRABAJO LTDA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.82046887973615,-58.42782765626907</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LICORES ARGENTINOS S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.778561785448176,-58.42048645019531</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CURTIEMBRE SCARANO SACIA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66837908503023,-58.403459787368774</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LLANAN NESTOR ROMAN</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66484057821928,-58.514556884765625</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CERQUETTI CARLA VANESA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.660851855695554,-58.502326011657715</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DANSPRAY S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.910323086975616,-58.59856367111206</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LAVADERO YAGUAR, DE MARCOS A. CUEVA BURGA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69201525627801,-58.4238338470459</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GOVIK S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70125967166076,-58.33083629608154</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRAINDEPRO SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.751168718176864,-58.36231470108032</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ESTABLECIMINETO MODELO CENTENARIO S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.719427935951415,-58.430142402648926</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TAKE 56 S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68612228470636,-58.54738712310791</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CRU BON S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68291096793205,-58.544769287109375</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>VILLA D´AGRI SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.687569101012045,-58.54830980300903</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LUMARMET S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66279329329746,-58.44327449798584</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CURTIEMBRE DON LUIS</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66762904009923,-58.40280532836914</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MAGLIOLAC S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67853490721574,-58.5046648979187</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GARPLAST SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.59587573548076,-58.46550464630127</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MERCAL S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66844085313367,-58.50595235824585</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LA METALURGICA INDUSTRIAL LAMPE LUTZ Y CIA. S.A.I.C.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.673902736175975,-58.38183045387268</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MEGADER S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.657974914518775,-58.4916615486145</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CASA TESTONE S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.72570652445711,-58.40263366699219</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LA NUEVA METROPOL S.A.T.A.C.I.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.654215325522394,-58.39314937591553</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>AMORIM ARGENTINA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70397634548034,-58.503849506378174</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LAFUENTE COMBUSTIBLES SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64955531657416,-58.363280296325684</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TERMOPAL S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70351769252277,-58.42883348464966</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>HECTOR FERREIRA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.71339580919627,-58.5700249671936</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>REGGIERI S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69132717643996,-58.32070827484131</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BAL-REQ S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65778076151677,-58.5036563873291</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MICRO CORRUADOS ALEMAX SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.697874730043914,-58.358741998672485</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MEITIN S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.846639262453394,-58.410475105047226</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TECNOCARNES S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69783724131591,-58.36654186248779</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>R. NETO S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67103507189046,-58.53635787963867</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CGR S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67684088614211,-58.53910446166992</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CULLIGAN ARGENTINA S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.58849207801975,-58.46799373626709</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO CARDENAS S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65721595019746,-58.509063720703125</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>VICENTE LUCIANO E HIJOS SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66932324958295,-58.40340614318848</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO MAR CAR SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66274034560258,-58.51101636886597</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ESTABLECIMIENTOS FRATE SACIFIA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.666305414832166,-58.40014457702637</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LABORATORIOS FERRING S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.616751329862936,-58.47777843475342</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ANAN S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68486953309009,-58.442657589912415</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CURTIEMBRE ANGEL GIORDANO S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68300360381445,-58.425879031419754</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>RADALEM S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64457729038275,-58.55056285858154</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CARYPLAS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.683087417142545,-58.44104290008545</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TRANSPORTE QUIRNO COSTA SACI</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70173597806477,-58.512089252471924</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LOCANE FRANCISCO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.717893489295704,-58.408942222595215</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DISTRIBUIDORA DON JUAN S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67832315647658,-58.58277082443237</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MONBAR S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64766652622242,-58.549532890319824</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TRI-ECO S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66469938777974,-58.324055671691894</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LUFRAN S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.63440847841159,-58.36036205291748</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LEZCANO MANUEL ANGEL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69330318521641,-58.35656404495239</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SHELL CIA ARGENTINA DE PETROLEO S A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65389760596146,-58.335556983947754</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>RODRIGUES JOSE ANTONIO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.660851855695554,-58.528289794921875</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>EDITORIAL PERFIL S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64927288336996,-58.384437561035156</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>JULAN SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.712549159703876,-58.4007453918457</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SIAT S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66067535911258,-58.410658836364746</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CHACINADOS SAN CAYETANO SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.658133766636645,-58.503570556640625</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LOGINTER SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.656545231756326,-58.34117889404297</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DORFEL SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66215791872594,-58.49494457244873</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ACCESORIOS ARIEL SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70231812661273,-58.40928554534912</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CIA LA PAZ AMADOR MOURE S.A.C.I.F.I Y A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.688133705394165,-58.44108581542969</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PARNOR S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66139899271379,-58.490363359451294</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>UNIONPEL S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.677087933040255,-58.54647517204285</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CURTIEMBRE ALVAREZ SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66844085313367,-58.402161598205566</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COOPERATIVA DE TRABAJO UNIÓN Y FUERZA LTDA.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.675632110337695,-58.35581302642822</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LAVISMIL SRL.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.593985722975525,-58.4553337097168</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ANDRÉS LAGOMARSINO SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70549341022545,-58.584980964660644</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FÁBRICA DE CARROCERIAS LOS CUATRO ASES S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.81718571162871,-58.492584228515625</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PROTEINAS ARGENTINAS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.633940612443396,-58.39556336402893</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PETRUZZIELLO HNOS S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6822757476608,-58.41984272003174</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ANDREA SILVANA PEÑA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66851144519549,-58.41447830200195</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ARBITER  S.A.I.C.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.739355518133564,-58.406195640563965</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LOMSICAR SAICIF Y A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.657992564769124,-58.49923610687256</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>METALURGICA RAMOS MEJIA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.638486745463396,-58.577234745025635</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ARGENTINO LUIS JORGE</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68146407022242,-58.42479944229126</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SER COLOR S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.672252738392004,-58.53519916534424</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TRANS-PLUS SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.91491560268342,-58.64530920982361</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TRANSPORTES COLEGIALES SACI</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64436545285109,-58.43434810638428</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LAVADERO MEDITERRANEO DE JOSE M. CABALEIRO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.669958569206614,-58.486618995666504</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CARONTE JORGE LUCAS</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69365603896229,-58.48625421524048</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>OSCAR SEBASTIAN AYALA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66198142492478,-58.494815826416016</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>HIERROS PARROTTA SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66787611447358,-58.34422588348389</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CURTIDURIA A. GAITA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67917015618451,-58.413963317871094</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ANDRÉS LAGOMARSINO SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65711004764657,-58.371734619140625</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SUPERMERCADO MAYORISTA MAKRO S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6631727507873,-58.388498425483704</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GEOLAND S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.72242619780844,-58.372464179992676</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CAMPOBELLO SACIA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.658485005130835,-58.496655464259675</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>QUIMICA D & D   S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68357265053248,-58.55560541152954</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CURTIEMBRE ROBERTO TORTOSA S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68513420050388,-58.421409130096436</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SAPORITI SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65160292852844,-58.43121528625488</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO SAN AGUSTIN SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65785136266103,-58.50923538208008</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>EMBALAJES LLAVALLOL SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69840177565756,-58.35817337036133</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LOMUGA SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.72785806587281,-58.40550899505615</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CAÑOS PONTEVEDRA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.747642566684505,-58.687376976013184</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COCA-COLA FEMSA DE BUENOS AIRES S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.654003512617095,-58.409414291381836</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TALLERES JUJUY SACI</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.680828838851006,-58.394222259521484</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TRIVE S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65735274079208,-58.49709838628769</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DIFFUCAP SACIFI</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67069976927592,-58.39263439178467</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SKINMAX S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68368734164551,-58.42108726501465</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>EPIMASTER S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.645301064532454,-58.55097055435181</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>S.A. LA HISPANO ARGENTINA CURTIEMBRE Y CHAROLERIA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.645671775674614,-58.496832847595215</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>IMPRECIR S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.717732547120114,-58.40753138065338</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ACINDAR INDUSTRIA ARGENTINA DE ACEROS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.691732967805656,-58.542795181274414</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DI GIANNI, CAYETANO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68509891156427,-58.432416915893555</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ARANDA ELMA NOELIA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.670064455336835,-58.554725646972656</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ESTABLECIMIENTO METALURGICO RODRIGUEZ S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68905117930212,-58.428651094436646</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LA ESPERANZA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65824849297685,-58.494858741760254</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LINDA IRMA LUCHETTA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64448902481033,-58.41480016708374</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SCHNEIDER ANTONIO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6635345574732,-58.740806579589844</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>J.N.G. PLAST S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65929867286405,-58.52884769439697</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CURTIEMBRE NAPOLITANA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68298154766138,-58.422675132751465</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TECNIMAR SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.661328394591855,-58.48938703536987</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>RIO CUARTO S.A.C.I.F.I.M.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.666640735233194,-58.40301990509033</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>IVECAM S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.74118931964719,-58.49498748779297</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>KRAPOVICKAS EDUARDO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.753689824193195,-58.42749238014221</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MANUFACTURA ARTICULOS DE CAUCHO YACO S.A.C.I.F.I.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65488606281827,-58.60875606536865</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FERNANDEZ JOSE MARIO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66960561446167,-58.40108871459961</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BROBEL S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70266212155671,-58.329323530197144</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIPASA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66604068724111,-58.51432889699936</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>INDUSTRIAS DELGADO S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6969904325823,-58.354740142822266</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PINKY´S S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68464015398042,-58.53339672088623</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SCABINI, MIRANDA Y CARRASCAL S.H.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67929367625145,-58.423919677734375</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORÍFICO FM S:R.L:</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65802786525855,-58.50363492965698</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ROBERTO PERSIANI</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.720733075064054,-58.39141130447388</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CURTIDURIA OSCAR ITURRI SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.673708620495624,-58.39958667755127</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DETWILER</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.937073958527634,-58.98641109466553</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COTO C.I.C.S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.81466654557699,-58.45649242401123</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>VIETRI HERMANOS SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67774083915209,-58.421902656555176</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BRAVESTAR S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.973856450644845,-58.72347414493561</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PAPELTEX ARGENTINA S.A.I.C.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.697607898139516,-58.40012311935425</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRANCISCO DOTOLO Y JUAN RAMON BRIZUELA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68998628647528,-58.43181610107422</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CLINICA PRIVADA TRISTAN SUAREZ S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.89209125726547,-58.566226959228516</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LABORATORIOS IMA S.A.I.C.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.57338709855965,-58.44948649406433</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LABORATORIOS SZAMA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.632435478551564,-58.46743047237396</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LABORATORIOS ANDRÓMACO S.A.I.C.I.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.62084812306072,-58.366241455078125</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GABRIEL EDUARDO SPINILLO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65975757082139,-58.42949867248535</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>AVICOLA 9 DE ABRIL S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69826064243321,-58.51425647735596</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CLAUDIO RENZO MACAGNO Y JOSE DOMINGO MACAGNO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6525914127493,-58.55210781097412</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TRANSPORTE RIO GRANDE SACIF</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65778076151677,-58.41782569885254</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PUNTHUAL S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67262994666592,-58.500703275203705</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>A Y A GABRIELI S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69265040182078,-58.52993130683899</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>JUMBO RETAIL ARGENTINA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.76390127923609,-58.39856341481209</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FABRICA JUSTO SACI</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66088715496703,-58.43994855880737</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CURTIEMBRE ARLEI SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.71039721990179,-58.36169242858887</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LA GANADERA ARENALES S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.84399332100206,-58.47649097442627</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LA GANADERA NUEVA ESCOCIA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.78649244335275,-58.46417427062988</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>EZEIZA MORA HERNAN ARIEL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.681437602345895,-58.52808594703674</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TOAGRA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67470566438461,-58.52859020233154</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LAGUNA MANUEL IGNACIO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.80764594566915,-58.41800808906555</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CONSOLATO PIROLO E HIJOS</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6839873022669,-58.41610908508301</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LORENZO SIANO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.682805098225266,-58.426666259765625</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PRODUCTOS TRIMAK S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.672764505926885,-58.51125240325928</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BERNARDINO RIVADAVIA S.A.T.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68516948942845,-58.55644226074219</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ERNST ALFREDO OSCAR</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.650614432520236,-58.53541374206543</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CURTIDURIA A. GAITA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68516948942845,-58.44271659851074</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FUNDICAR S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6542815169443,-58.50241184234619</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIG. LA DIVISA DE O. Y L . PROSDOCIMO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66134604412798,-58.51395606994629</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BIO SIDUS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.62967673116552,-58.42426300048828</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ESTEVEZ HNOS SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.711208613615675,-58.36418151855469</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PLUMARI S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69049794441942,-58.39855670928955</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO 101 LA ESTRELLA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.697272703122984,-58.511595726013184</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CD CONSTRUCCIONES S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.79025483324582,-58.427406549453735</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ROALTEX S.H. DE DE PINTO ROSA ANA Y SOBRERO ALDO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65590980927884,-58.48754167556763</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>HDK S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.88168885431248,-58.67906212806702</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>S Y C MILLENIUM PRODUCTS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67917015618451,-58.530027866363525</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ANTONIO GOLIA Y JOSE CAMPILONGO S.H.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.654003512617095,-58.411173820495605</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ROVEFA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68315799672145,-58.347487449645996</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>YONADI SACIFIYA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65986346998913,-58.5056734085083</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ASC GUILLEMI JOAQUIN S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.773979280035725,-58.417088091373444</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SADESA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.695931909479796,-58.45168590545654</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GRAFICA CEFLA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.663746346019686,-58.50642442703247</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CABAÑA SAN PEDRO S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6998836599806,-58.52120876312256</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO RUSSAN</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67308215315127,-58.38242053985596</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRAFIE S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.85860877310893,-58.65077018737793</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LA GALVANOPLÁSTICA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67514683041664,-58.38430881500244</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LOMASCHOC S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.675040950783256,-58.54339599609375</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ROMANO WALTER Y ROMANO GUILLERMO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.683738070356355,-58.510428965091705</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COCO OIL S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64019920474575,-58.3449125289917</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SOSA RAMON OMAR</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65947517237913,-58.50414991378784</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>NIDERA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66424051718958,-58.42482089996338</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GONZALEZ CAROLA CLAUDIA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.71798167665632,-58.32860469818115</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DELPA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.656933543094354,-58.49241256713867</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TRANSFER LINE S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.652891485984036,-58.3833646774292</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>RAÚL V. BATALLES S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.5823620840006,-58.464903831481934</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DUREX CROM S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69356782566684,-58.41001510620117</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>RED DEER S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.679134864702974,-58.372260332107544</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DIALTECNIA S.C.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68940405117449,-58.41164588928223</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>JUMBO RETAIL ARGENTINA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-35.05028795027412,-58.756513595581055</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TOSTADERO PARANÁ S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.674546844037806,-58.51438522338867</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PLAZA S.H.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66653484472685,-58.37990999221802</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SOUTH AMERICA TRADING LEADER S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.683828499720356,-58.420143127441406</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>KIOSHI COMPRESION S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69792765527807,-58.3694788813591</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MARTA RODRIGUEZ</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65818671727494,-58.572728633880615</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MEROAROMAS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.63862798055652,-58.551185131073</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>POLYMAT SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.664152272553984,-58.533053398132324</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>WEINSTEIN RODOLFO ISIDORO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69145067837055,-58.57118368148804</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO LA ROSARINA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65954577207992,-58.50891351699829</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MARTINEZ JUAN JOSE</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.676893824825186,-58.54406118392944</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LA BOUTIQUE DEL MAR S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64771948354758,-58.38907241821289</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DANIEL FERRANDINO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6354677878332,-58.38181972503662</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>REY DANIEL HECTOR</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66863498115894,-58.41748237609863</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GERMAIZ S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.675993862610795,-58.55195760726929</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>WAL-MART ARGENTINA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.676946763474405,-58.36637020111084</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>JUAN CARLOS FRESNEDA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.630347666972376,-58.370211124420166</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FOURCAD ALEJANDRO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.77635868961206,-58.425196409225464</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LA PAICA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65988111983728,-58.49530264735222</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>A.A. ABRASIVOS ARGENTINOS S.A.I.C.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64500979032943,-58.42222452163696</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ALFAJORES JORGITO S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.63518530664355,-58.42110872268677</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TRANSPORTE AUTOMOTOR PLAZA SACI</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64973183683816,-58.371734619140625</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ARYL SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.712302218636,-58.35759401321411</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DE SANCTIS SANTO Y CIA SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.663993431973054,-58.50524425506592</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BALIARDA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.62409716007812,-58.4004020690918</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ALUMINIOS A MIL S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.712302218636,-58.389973640441894</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>RODOLFO HORACIO CRESPI</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68375792071302,-58.480610847473144</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>HILLMANN SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.707804234456,-58.31869125366211</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ALGIPEL S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67980540028022,-58.42432737350464</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>UTIL-OF SACI</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.62994157489536,-58.35759401321411</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>NALTEX S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.667426085597626,-58.398985862731934</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DROQUIMAR SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.685328289402925,-58.518826961517334</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TIMUKA S.A.C.I.C.I. Y F.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68022889363675,-58.54837417602539</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PERFECTO GONZALEZ S.A.I.C. E.I.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.640614073580736,-58.51100027561188</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MASTROPOR S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65936927271519,-58.495073318481445</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>RUHRPUMPEN ARGENTINA SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66808789192226,-58.48580360412598</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COTO C.I.C.S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.63447909946059,-58.46406698226929</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BALBOA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.59294354815492,-58.46578359603882</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COTO C.I.C.S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.61191261538668,-58.39900732040405</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>YES SERVICE S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.7423530571889,-58.607683181762695</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ELECTROCOL S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.685734110176064,-58.41958522796631</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CENTROIL S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.682663938405646,-58.38516712188721</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LONCO HUE S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66875851693817,-58.41735363006592</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COTO C.I.C.S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.56684958981199,-58.436172008514404</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>HBS METALURGICA SACIIYF</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.694132389133,-58.46752166748047</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MARCELINO MAYO E HIJOS S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68469308767752,-58.40580940246582</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GONZÁLEZ MARINÉ</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68239044057029,-58.50147306919098</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FERVA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.63737451070014,-58.60961437225342</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ISIS CUEROS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67924073910246,-58.42934846878052</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>VOLCUER SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66649954786133,-58.40259075164795</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CHAMES TAMBORES S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.690180363998806,-58.35611343383789</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MARTUCCI HNOS</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67897164140525,-58.42430055141449</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MACH 97 S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67059388395778,-58.4862756729126</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CURTIEMBRE JUAN CEFALO SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.682558068383,-58.42254638671875</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SELFOX SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.699424984335494,-58.351993560791016</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CROMADOS CAXARAVILLE DE PEDRO MARTIN E HIJOS SOCIEDAD DE HECHO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.719749813389676,-58.337793946266174</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>JOSE ERNESTO KONDRATZKY SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.679840691476,-58.42203140258789</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ANTONIO CLAUDIO VENEZIA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68081119346557,-58.4242308139801</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DESIR S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67985833706823,-58.423136472702026</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SUCERORES DE BERNARDO OTERO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64823140261358,-58.41349124908447</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ESSO PETROLERA ARGENTINA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.632183884591825,-58.50193977355957</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LABORATORIO EPICARIS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65389760596146,-58.498291969299316</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LOS LEONESES DE RODRÍGUEZ Y CÍA. S.C.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.638027729749666,-58.41336250305176</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SUCESION CARLOS CERRO HIJO SH</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67338215218909,-58.402161598205566</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LAMBERTI SALVADOR SERGIO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.673276270299816,-58.53442668914795</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO EBRO S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6628462409585,-58.50346326828003</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>VERDE Y NEGRO SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.653368070653556,-58.513312339782715</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GRINTEK S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.669958569206614,-58.404200077056885</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ALFREDO OMAR POTENZA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66226381482619,-58.512024879455566</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ARANGIO S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69928385285627,-58.41636657714844</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>JOSE GOMEZ Y CIA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.683087417142545,-58.42361927032471</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ALEXVIAN S.A.C.I.F.I.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.650879209392514,-58.51070523262024</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>QUÍMICA MONTPELLIER S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.61894102035026,-58.41407060623169</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>VICENTE  OSCAR PIANA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66748785441161,-58.40131402015686</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>OSAMPE SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.83473405760722,-58.38452339172363</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MATRICERIA CONARVI S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.7879727483811,-58.42031478881836</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LA QUINTANA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.665246499392744,-58.507561683654785</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CECCARELLI HNOS. Y TRISTAN SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64358871060472,-58.549489974975586</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TRANSPORTES SANTA FE S.A.C.E I.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64966122877766,-58.368215560913086</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GALEA LG S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68725150935487,-58.394737243652344</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SUPIE  S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67779377725988,-58.54897499084473</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LEONARDO DANIEL CALVI</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.76840943083677,-58.394222259521484</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CARLOS ALBERTO NAZAR</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68832778726115,-58.3992862701416</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CONCRETE GRUPO PICA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.73415364814777,-58.5671067237854</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PLENO INDUSTRIAL SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68146407022242,-58.42548608779907</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BARICOSMOS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66304038209285,-58.356242179870605</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ARCIDIACONO E HIJOS SC</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67176192388493,-58.405005410313606</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>HECTOR WELSCHEN</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.686157573209776,-58.359718322753906</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MADERAS EXOTICAS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66166373513537,-58.49271297454834</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GRIFER S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69575548764639,-58.534748554229736</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FERVA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.682099296720594,-58.54983329772949</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>AMEDEO, RODOLFO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.76093537172533,-58.4122896194458</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SIMABUKO JULIO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.58082509817637,-58.47290754318237</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COMENSE S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.712963666267434,-58.36040496826172</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>VIQUIRA Y LEGUIZAMON S.H.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67230568000776,-58.39317083358765</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PERMATEC LABORATORIO MEDICINAL S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.613290088370995,-58.393235206604004</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COTO C.I.C.S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6339494401276,-58.468079566955566</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COTO C.I.C.S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.607320873703244,-58.387956619262695</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ROLDAN ELADIO SALVADOR</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67027622719125,-58.425636291503906</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ANTONIO DE MAIO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.681614054696176,-58.42224597930908</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ZOELA SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66662308682486,-58.4103262424469</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>OPERADORA DE ESTACIONES DE SERVICIOS S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.75554093694951,-58.4012496471405</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COMPAÑIA MUNDIAL DIESEL S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68817880740733,-58.56479157509057</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TALLERES METALURGICOS SH</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66872322102004,-58.52346181869507</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ESTABLECIMIENTO METALURGICO RENANIA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.698931023105104,-58.40160369873047</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FLUMAT S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70282970831901,-58.376305103302</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>EUROCUER SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67969952660269,-58.42301845550537</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PETRO RIO COMPAÑIA PETROLERA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64872566629869,-58.33546578884125</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COTO C.I.C.S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.62817593405986,-58.45327377319336</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>IMPO MUNRO S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65792196374515,-58.50417137145996</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LA VECINAL DE MATANZA S.A.C.I. DE MICRO OMNIBUS</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.76118216749934,-58.621416091918945</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LA POMPEYA S.A.C.I.F.Y.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65671732450561,-58.501470386981964</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CONFECOR SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.672040971590604,-58.40306282043457</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CAMILO FERRON S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.696884580881324,-58.452908992767334</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LANERA DEL PLATA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.71276082288951,-58.36483597755432</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>4  DE NOVIEMRE SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66949972774494,-58.51972818374634</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ALBERTO FABIAN ARANO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68005243833475,-58.41705322265625</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO ESCALADA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.733668711378364,-58.402730226516724</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ROBERTO PEREZ E HIJO S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68365205208919,-58.348249197006226</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LABORATORIOS BERNABÓ SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.60746216184939,-58.48254203796387</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>NUTRAL S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.923097034259854,-59.014434814453125</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BFB AUTOLUBE S.A.M.I.C.I.F Y A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.777134186055456,-58.37955594062805</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SAR JOSÉ MARÍA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.639060511533046,-58.41831922531128</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>STONE COLOR S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65668643608974,-58.48923683166504</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ROUX-OCEFA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67189979342223,-58.49402189254761</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO BAJO CERO S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.666781922364436,-58.5007381439209</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>VELSUD S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.843218453491964,-58.47717761993408</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COTO C.I.C.S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.749423292003975,-58.4002947807312</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ORTENZI EDUARDO OMAR</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.688910030131986,-58.5590386390686</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>VEROTIN S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.656951193566485,-58.391239643096924</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>NEOTEROI S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.63243106462902,-58.372507095336914</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COAMTRA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68862773106969,-58.35967540740967</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GRANCHAROFF ROBERTO ESTEBAN</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65338572188498,-58.50065231323242</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>NAFRAM S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67729968693783,-58.57032537460327</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SIRPLASTIC SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66037531405882,-58.42705249786377</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ALDERETE JOSÉ A. Y ALDERETE ADRIAN A. S.H.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.708011499887,-58.58413875102997</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GOBBO CARLOS ANTONIO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6727115646044,-58.40100288391113</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ROBERTO CLAUDIO SOLER</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6583808693259,-58.49741220474243</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TRESANTRIP S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65700414496034,-58.50011587142944</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ANDRES MAZZA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.680440639502834,-58.415207862854004</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ITALPIEL S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66909382741032,-58.40288043022156</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PILCOMAYO S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67924073910246,-58.401474952697754</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FUTUROS S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.640428706910946,-58.49138259887695</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>VICTOR KUZAUKA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70381758128277,-58.42709541320801</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GEB S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.680140666032756,-58.56913447380066</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CARLOS CARMELO RUBINO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.653226860666784,-58.424906730651855</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COTO C.I.C.S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69046265776619,-58.42055082321167</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BENIDORM S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.658133766636645,-58.49678993225098</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LABORATORIO MI FLORA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.62579225932789,-58.48473072052002</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>IMPFORM S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64692512011826,-58.38804244995117</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ANTONIO ESPOSITO S A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.695508496447786,-58.356027603149414</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>INDUSTRIAS PROMISUR SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.663252171902464,-58.43198776245117</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DAMIATONY S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.689686347589344,-58.5481595993042</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PTE JOSE EVARISTO URIBURU 1262 S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.56997705677679,-58.45820903778076</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FLEXICUER SH DE F PARODI Y R GARZILLI</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66582890455924,-58.403706550598144</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SOLOFRACUER S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68188755509601,-58.425679206848144</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BIOPROFARMA SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.618128722554786,-58.474280834198</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GASA PLUS S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.671299783522166,-58.56180667877197</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ABEL RESNIK E HIJOS S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.63772760271713,-58.42222452163696</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GATE GOURMET ARGENTINA S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.62880274085844,-58.35769593715668</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>UNIVERSAL GROUP INC. S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69848998380055,-58.51095199584961</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PROCESADORA VIP S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.664575845947766,-58.508055210113525</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SANITARIOS NUEVA HERA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67924073910246,-58.41636657714844</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PANDOLFELLI JUAN ANTONIO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68047593042787,-58.43005657196045</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PETRAUSKAS JORGE Y PETRAUSKAS ERNESTO S.H.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69307382947489,-58.42001438140869</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CUEROS ROBLANS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70595205222998,-58.325514793395996</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COTO C.I.C.S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65610396666381,-58.52391242980957</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ECHEVERRIA, LUIS ALFREDO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.690109790406545,-58.42754602432251</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GASTROSERVICE S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.690109790406545,-58.33463430404663</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>INDUSTRIAS MAQTOR S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70574037162077,-58.58429431915283</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SCRANTON S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.685487089072794,-58.39980125427246</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>OLIVERA MARTIN LUIS</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.72186182741278,-58.41100215911865</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>WHITE PABLO GUILLERMO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.716570667600436,-58.40812683105469</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>INC S.A. - Nº20 CARREFOUR AVELLANEDA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6603550169619,-58.37515604489454</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ANTONIO CARLOS DE MAIO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67137037314776,-58.40108871459961</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>INC S.A. - 154 LANUS</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70631896486419,-58.393269538355526</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>EXHIBIDORES RAPETTI S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.77846485046864,-58.41560482978821</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>IULIANO JOSE, IULIANO ANTONONIO Y LOPEZ JAVIER SOC.DE HECHO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68863655292994,-58.49891424179077</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PANIFICACION G Y M  S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68474602134078,-58.55459690093994</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>IANNACCONE MORIANO S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68146407022242,-58.42360854148865</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PROACTIVA AVELLANEDA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.71508908217961,-58.346757888793945</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LABORATORIOS KÖNIG S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66935854524544,-58.38915824890137</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PITTURA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.8024924270889,-58.410701751708984</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MORIANO MARCELO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68199342597599,-58.42434883117676</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CURTIEMBRE TORRES HNOS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67186449884253,-58.400187492370605</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CUERO FLORIDA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66861733317544,-58.403449058532715</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FIBRA PAPELERA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6571674115451,-58.498381823301315</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SOLDANO PANTALEON</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.661240146854844,-58.49593162536621</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>NORAUTO ARGENTINA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67643502178101,-58.36658477783203</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TRANSPORTE IDEAL SAN JUSTO S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.62948251189295,-58.38265657424927</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COTO C.I.C.S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.843077567706345,-58.50747585296631</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DI MAURO FRANCISCO Y DI MAURO FAVIO GASTON SOCIEDAD DE HECHO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68502833363989,-58.43928337097168</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FAGAS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65396821041358,-58.493828773498535</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COTO CICSA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.8834666848281,-58.680596351623535</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LOMA NEGRA C.I.A.S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.696108330937115,-58.46825122833252</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FIDOS SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6636404518141,-58.529062271118164</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BERTOLI ORLANDO ROBERTO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6669407575995,-58.48473072052002</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GENERAL SWEET S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.55220017056436,-58.457651138305664</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>HERNANPLAS SOCIEDAD DE RESPONSABILIDAD LIMITADA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.71452466170393,-58.4498405456543</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ESPIGA DE ORO S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.671158604090536,-58.38732361793518</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LEOZ SYLVIA ESTHER</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.648884536143086,-58.51940631866455</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SCORCIAPINO CARLOS H.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65626282236775,-58.50114583969116</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>OMAR ERNESTO BIANCO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65153232206161,-58.5201358795166</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ROMERO MARCELO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.652414898574364,-58.408684730529785</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>IAMARINO CLAUDIA NATALIA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68873359333086,-58.43550682067871</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DEL ROSSO DONATO ROBERTO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.58926933602292,-58.43108654022217</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LAVADERO DE AUTOS NEW PARADA 5</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.639440077674465,-58.424198627471924</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BLINKI S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6586279712784,-58.338775634765625</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>METALMAR SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.666473075202326,-58.39704394340515</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>EMBOTELLADORA BONSAL S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.680824427504994,-58.57820838689804</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SUPERMERCADO MAYORISTA MAKRO S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.59421535295792,-58.37669134140015</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ARTES GRAFICAS RIOPLATENSE SOCIEDAD ANONIMA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64923757915178,-58.42456340789795</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ESTABLECIMIENTOS MOLPLAS SAICIF Y A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64175274546211,-58.622188568115234</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MULTIPOSTER S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.638204274555584,-58.4283185005188</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ABEL SCHEJTMAN</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.668158484284845,-58.48893642425537</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TOZZO JORGE ALFREDO Y TOZZI NORMA NELIDA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68873359333086,-58.3434534072876</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SOLESSIO S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67934661336658,-58.42254638671875</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DIEFERLEN SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.763050740134055,-58.42048645019531</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>NOVO ROBERTO WALTER Y DEROSA JUAN CARLOS</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68358147293143,-58.42185974121094</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>HERNAN NAHUEL PETRONE</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.638010075248395,-58.57927322387695</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TECNO ALL ARGENTINA S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.75933118121131,-58.35710048675537</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DESTRO, JOSE LUIS</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6676996328528,-58.487842082977295</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LAVORATO ANALIA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.689545199502255,-58.497862815856934</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CURTIEMBRE BIONDO SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.681375843934454,-58.4168815612793</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ESTANCIA SAN MATEO SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.813327656748015,-58.38883638381958</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PLENO INDUSTRIAL SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68636930391438,-58.4227180480957</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>AVINOU AUTOMOTORES  S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.575180406383694,-58.479108810424805</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DAL SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.665736249465695,-58.50964978337288</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO MANSILLA  S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6571453485119,-58.531765937805176</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MERCOLA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.677758485191774,-58.526691198349</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FELIPE LUIS E HIJOS SAICF E I</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.62872549379755,-58.49065572023392</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MUNDO PAST  S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.684146104508855,-58.524041175842285</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FOOD AND SERVICE CONSULTING S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.642794307599424,-58.36068391799927</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>VALENTI HORACIO FRANCISCO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.881706456783306,-58.51215362548828</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CURTIEMBRE CIRO JOSE FIENO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68456957566498,-58.42306137084961</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GUZMAN NACICH S.A.I.C.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70799827019415,-58.345738649368286</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FADAP SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70863329306403,-58.368258476257324</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>HES, S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.680828838851006,-58.52275371551514</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GIUMAK S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.666345123897855,-58.53371858596802</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>YPF SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.73163194587322,-58.56219291687012</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GARCIA ANGEL OSVALDO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.668899700460294,-58.4137487411499</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>RESMATIC S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67442331689087,-58.53891134262085</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SABORISIMO S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66115631141765,-58.52583825588226</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LUPUM S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67324097630664,-58.53987693786621</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LEDEVIT S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65245020143943,-58.418641090393066</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PAREX KLAUKOL S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.87962933920078,-58.68390083312988</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>YPF SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65387995483904,-58.32343339920044</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRIGORIFICO SAGA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.636699218031104,-58.47118020057678</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>INFEBO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67846432369619,-58.38085412979126</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>HELVECIA MANZUR</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.654974317321546,-58.4991717338562</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DANONE ARGENTINA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.84730403636814,-58.37654113769531</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COAMTRA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.63899872153164,-58.3868408203125</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PAVISUR  S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.668158484284845,-58.33989143371582</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LA CAMARA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6510027716435,-58.50221872329712</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LUVRE S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65792196374515,-58.5816764831543</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DERUDDER HNOS S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.585559630094096,-58.37684154510498</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COOPERATIVA DE TRABAJO CURTIDORES UNIDOS LTDA.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.667205482314564,-58.39752674102783</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>JORGE PAULINO GOMEZ</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.80210479898696,-58.417181968688965</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FOREST CAR SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.59697086323636,-58.44696521759033</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DITRIBEBIDAS S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.688468937424076,-58.54762315750122</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GOMAPLAST S.A.I.C.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.64666033061717,-58.36594104766846</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FIASCHI FERNANDO ALFREDO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65555679468633,-58.522539138793945</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>EMPRESA DE TRANSPORTES SIERRAS DE CORDOBA S.A.C.I.I. Y A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6446302496811,-58.40181827545166</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CARNES AVELLANEDA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66208732125059,-58.3718204498291</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>NEXT BDG SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66925265821289,-58.4058952331543</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CCOPERATIVA DE TRABAJO HUESITOS WILDE LTDA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.71060888859453,-58.32100868225098</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COMERCIAL FRIGORIFICO PUERTO PLATA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65502726997841,-58.37632656097412</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TECAPLAS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6564746294994,-58.36179971694946</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>INDUSTRIAS TERMOPLÁSTICAS RIDER SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.673099800183564,-58.39516639709473</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LAVANDERIA SAN CIPRIANO S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.659422222564075,-58.49739074707031</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TINTORERIA CRISTINI</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.709409425506905,-58.36885929107666</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CRISTINI</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.715406567004344,-58.36718559265137</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>EMMA PANIFICADORA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.759719010346345,-58.39763402938843</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MENECLIER ANDRES ENRIQUE</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.76102351315788,-58.40587377548218</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BAGALA S.A.C.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65905157291137,-58.50571632385254</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CLAUDIA BAGALA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.618269992307674,-58.389458656311035</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FORMAS Y COLORES SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.668802636814675,-58.4857177734375</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DHL EXPRESS ( ARGENTINA ) S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.659792870559016,-58.492605686187744</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>POTENZA ADRIAN</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.73184356021039,-58.412203788757324</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COSMAI LUCIA ADRIANA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.7226731086451,-58.4102725982666</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>VELEZ SARFIELD COW SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.681040583182934,-58.42696666717529</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SERVIS G S  S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69122131749565,-58.55363130569458</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CARTOEXPRES SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67553505458097,-58.54592800140381</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SERVICENTRO SAN EDUARDO SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65562739772512,-58.366713523864746</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FRÍO MÁXIMO SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.63663301257153,-58.42211723327637</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>METALURGICA KOHOUT</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.71199354126432,-58.32522511482239</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GLOBAL ALIMENTARIA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69007450358784,-58.38134765625</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PAN'S COMPANY S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68578704317373,-58.36569428443909</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GRAMABI SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66739961323468,-58.51668119430542</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>RADIO LLAMADA S.A.C.I.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65785136266103,-58.62761735916138</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BACCARI CARLOS</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.80719667738359,-58.45754384994507</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SILVINA LOPEZ RIOS</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.691415392123474,-58.355727195739746</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ECHO ARGENTINA SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.843676330629684,-58.40139985084534</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PROCESADORA MILI SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.659634021621315,-58.483572006225586</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GATWICK S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6387868697488,-58.616695404052734</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ENVASES ANKA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70724858414255,-58.584755659103394</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>NEUMATECH S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.74408100087339,-58.48953723907471</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>FUTURO S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69928385285627,-58.37164878845215</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ANDRES PABLO GOUGET</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.59856053912597,-58.466105461120605</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>VUR CASH SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66134604412798,-58.507304191589355</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>GIUMAK S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.666464250980766,-58.5335898399353</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COOPERATIVA DE TRABAJO FRIGOCARNE MÁXIMO PAZ LIMITADA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.9502570553309,-58.609657287597656</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CARNAGHI ALDANA CECILIA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.78088819078962,-58.83800983428955</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>T.C.L. S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.6893864076166,-58.35905313491821</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SAN CAETANO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.81316910268276,-58.45355272293091</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TEÑIDOS FOL SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-37.18001393890171,-62.755279541015625</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>EDUARDO JORGE IGNOTO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.629923918673015,-58.46149206161499</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>NORBERTO FERNANDO BATLLE</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69053323105761,-58.56154918670654</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>S. VISENTINI Y CIA. S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.666764273986196,-58.39865326881409</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MEGACROM ARGENTINA S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.684498997289374,-58.421173095703125</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MEDIAS APOGEO S.A.C.I.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67896722996031,-58.35204720497131</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PANYMAX  S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.658063165732955,-58.35995435714722</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TODO RECICLADO S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68192284540437,-58.42846870422363</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MAZAMET S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.698225359089506,-58.405669927597046</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>AGROINDUSTRIA MADERO S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.690039216754094,-58.508591651916504</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>TYLAM SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67825257277654,-58.40458631515503</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ABEIJON, FRANCISCO JAVIER Y SCHLESINGER, ALBERTO EMILIO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70494656451225,-58.39756965637207</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LA NUEVA ANDALGALA S.R.L</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.664822929427494,-58.50362420082092</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CURTI HNOS S.H.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.68206400648743,-58.52738857269287</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DANIEL GUSTAVO GARCIA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.69282683027324,-58.37409496307373</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LÁCTEOS BARRAZA S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.674546844037806,-58.523311614990234</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PRYNARD S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66505236342746,-58.48721981048584</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DANIEL COPPOLA - OMAR NAVEIRAS</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66507001217037,-58.36804389953613</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>PABLO MATIAS PUCCI</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.73589939695581,-58.3978271484375</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COOPERATIVA DE TRABAJO LA FORESTA LIMITADA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.834518303913775,-58.62757444381714</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>BUENOS AIRES FOOD SA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65853972066566,-58.50543737411499</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>VERAYE OMNIBUS S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.667390789111806,-58.51833879947662</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>UNIPOX S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.797453119587494,-58.428382873535156</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>COOPERATIVA DE TRABAJO OBREROUNIDOS DEL CUERO LTDA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70757491890595,-58.364417552948</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>NOVOSER SA.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.65658053286223,-58.41958522796631</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>SANFER WASH SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66452289939197,-58.385682106018066</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>VISION PRODUCTOS Y SERVICIOS S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.8231045678916,-58.47095489501953</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>XARABY S.A.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66679957073893,-58.41308355331421</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>MENDEZ LILIANA ANGELA</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.644400759143956,-58.45906734466553</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ENCUADERNACIONES NUEVA POMPEYA S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.654815459148004,-58.42705249786377</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ROCIG S.A</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.67338215218909,-58.492798805236816</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>JOSE ANTONIO MANCUSO</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.66713488913993,-58.547987937927246</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>ARUR PLÁSTICOS S.R.L.</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.75970138178883,-58.47919464111328</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>LAURENCENA SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.671140956644656,-58.53097200393677</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>DIEGO HERNAN CARRO RAMOS</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.70267094192108,-58.50013732910156</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>CROVARA 3002 SRL</name>
+    <description>Industrias</description>
+    <Point>
+        <coordinates>-34.691344819584195,-58.5271954536438</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Barrio el Libre Amanecer</name>
+    <description>Relocalizaciones</description>
+    <Point>
+        <coordinates>-34.690127,-58.446859</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Barrio Puente Alsina</name>
+    <description>Relocalizaciones</description>
+    <Point>
+        <coordinates>-34.660472,-58.415800</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Barrio San Francisco</name>
+    <description>Relocalizaciones</description>
+    <Point>
+        <coordinates>-34.661293,-58.404309</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Barrio 10 de
+Enero</name>
+    <description>Relocalizaciones</description>
+    <Point>
+        <coordinates>-34.687922,-58.445250</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Barrio Villa Jardín</name>
+    <description>Relocalizaciones</description>
+    <Point>
+        <coordinates>-34.675253,-58.433558</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Barrio Don Juan</name>
+    <description>Relocalizaciones</description>
+    <Point>
+        <coordinates>-34.764064,-58.572988</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Barrio Los Ceibos Sur</name>
+    <description>Relocalizaciones</description>
+    <Point>
+        <coordinates>-34.799145,-58.619971</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>El Pueblito</name>
+    <description>Relocalizaciones</description>
+    <Point>
+        <coordinates>-34.658663,-58.415669</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Magaldi</name>
+    <description>Relocalizaciones</description>
+    <Point>
+        <coordinates>-34.661417,-58.391304</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Magaldi</name>
+    <description>Relocalizaciones</description>
+    <Point>
+        <coordinates>-34.661417,-58.391304</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Magaldi</name>
+    <description>Relocalizaciones</description>
+    <Point>
+        <coordinates>-34.661417,-58.391304</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Villa 26</name>
+    <description>Relocalizaciones</description>
+    <Point>
+        <coordinates>-34.657304,-58.382936</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Villa 26</name>
+    <description>Relocalizaciones</description>
+    <Point>
+        <coordinates>-34.657304,-58.382936</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Villa 26</name>
+    <description>Relocalizaciones</description>
+    <Point>
+        <coordinates>-34.657304,-58.382936</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>villa 21-24</name>
+    <description>Relocalizaciones</description>
+    <Point>
+        <coordinates>-34.659268,-58.401239</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>villa 21-24</name>
+    <description>Relocalizaciones</description>
+    <Point>
+        <coordinates>-34.659268,-58.401239</coordinates>
+    </Point>
+</Placemark>
+</kml>
